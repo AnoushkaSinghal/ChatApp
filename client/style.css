@@ -1,17 +1,18 @@
 body {
-  background-color: white;
+  background-color: #b19cd9;
   color: #303030;
   font-family: "Helvetica Neue", Arial, sans-serif;
   margin: 20px;
 }
 
 main {
-  background-color: #f0f0f0;
+  background-color: #BEE3DB;
   margin: 20px auto;
   max-width: 580px;
   padding: 20px;
   border-radius: 6px;
-  box-shadow: 5px 5px 12px #c2bfbf;
+  box-shadow: 5px 5px 10px #BEE3DB;
+  color: black;
 }
 
 ol {
@@ -26,18 +27,19 @@ li {
 }
 
 li:nth-child(odd) {
-  background-color: #e3e3e3;
+  background-color: #3C6E71;
   border-radius: 6px;
+  color: white;
 }
 form {
-  background-color: lightsteelblue;
+  background-color: #b19cd9;
   border-radius: 6px;
   margin: 0;
   padding: 10px;
 }
 
 button {
-  background-color: cornflowerblue;
+  background-color: #061A40;
   border: none;
   border-radius: 3px;
   color: white;
